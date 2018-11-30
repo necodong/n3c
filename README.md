@@ -7,6 +7,4 @@ N3C는 넥슨 프로그래밍 동호회 네코동의 미니 3분 컨퍼런스입
 제3회 N3C
 2018-12-06(THU) 7:00PM 넥슨코리아 1994홀
 
-<img src="https://github.com/necodong/n3c/blob/master/3/poster_mobile.png" width="90%"></img>
-
-static page
+<img src="3/poster_mobile.png" width="90%"></img>
