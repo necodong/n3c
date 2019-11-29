@@ -7,4 +7,4 @@ N3C는 넥슨 프로그래밍 동호회 네코동의 미니 3분 컨퍼런스입
 제4회 N3C
 2019-12-06(FRI) 7:00PM 넥슨코리아 1994홀
 
-<img src="4/n3c_4th_mobile.jpg" width="90%"></img>
+<img src="4/n3c_4th_mobile_700.jpg" width="90%"></img>
