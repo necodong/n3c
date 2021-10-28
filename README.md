@@ -9,4 +9,4 @@ N3C는 넥슨 프로그래밍 동호회 네코동의 미니 3분 컨퍼런스입
 
 https://www.youtube.com/channel/UCFg9dIfo2cdn8O5KSoZYx8Q
 
-<img src="5/n3c_5th_online_700.png" width="90%"></img>
+<img src="5/n3c_5_online_700.png" width="90%"></img>
